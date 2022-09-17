@@ -8,8 +8,8 @@ Have fun using them, or exploring them idk ! XD
 
 - [x] Portfolio page
 - [x] 404 Error page
-- [ ] Ransomware Database
-- [ ] GDI Malwares
-- [ ] Other Funny projects
+- [x] Ransomware Database
+- [x] GDI Malwares
+- [x] Other Funny projects
  
 > All here will be listed in this site!
